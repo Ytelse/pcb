@@ -242,6 +242,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OPUPSREC
 
+[Document13]
+DocumentPath=N25Q128A13ESE40.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VOSNMNLG
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

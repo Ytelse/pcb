@@ -1,5 +1,5 @@
 Record=TopLevelDocument|FileName=main.SchDoc
-Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Configuration memory|SchDesignator=Configuration memory|FileName=File name|SymbolType=Normal|RawFileName=File name|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=Configuration memory|SchDesignator=Configuration memory|FileName=N25Q128A13ESE40.SchDoc|SymbolType=Normal|RawFileName=N25Q128A13ESE40.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=FPGA|SchDesignator=FPGA|FileName=XC7A35TFTG256.SchDoc|SymbolType=Normal|RawFileName=XC7A35TFTG256.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=LEDs|SchDesignator=LEDs|FileName=File Name|SymbolType=Normal|RawFileName=File Name|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCUtop.SchDoc|SymbolType=Normal|RawFileName=MCUtop.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
