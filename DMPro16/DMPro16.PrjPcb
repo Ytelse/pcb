@@ -39,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\main.SchDoc
+DocumentPath=main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -56,7 +56,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BLPOXKHB
 
 [Document2]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\pcb.PcbDoc
+DocumentPath=pcb.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CWVFARBI
 
 [Document3]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\MCUtop.SchDoc
+DocumentPath=MCUtop.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -90,7 +90,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YYVOVTVW
 
 [Document4]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\EFM32_power.SchDoc
+DocumentPath=EFM32_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -107,7 +107,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GLWRTBWF
 
 [Document5]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\SDtop.SchDoc
+DocumentPath=SDtop.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -124,7 +124,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CLBKHCNT
 
 [Document6]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\Power.SchDoc
+DocumentPath=Power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -141,7 +141,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JKEMDJHV
 
 [Document7]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256.SchDoc
+DocumentPath=XC7A35TFTG256.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -158,7 +158,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IIBEMCDE
 
 [Document8]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256_bank14.SchDoc
+DocumentPath=XC7A35TFTG256_bank14.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OKLNESGG
 
 [Document9]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256_bank15.SchDoc
+DocumentPath=XC7A35TFTG256_bank15.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,7 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HTBTLWSP
 
 [Document10]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256_bank34.SchDoc
+DocumentPath=XC7A35TFTG256_bank34.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -209,7 +209,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QBNRPNJX
 
 [Document11]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256_bank35.SchDoc
+DocumentPath=XC7A35TFTG256_bank35.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -226,7 +226,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NCMGDDBH
 
 [Document12]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256_power.SchDoc
+DocumentPath=XC7A35TFTG256_power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -243,7 +243,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RLPCAQLI
 
 [Document13]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\XC7A35TFTG256_config.SchDoc
+DocumentPath=XC7A35TFTG256_config.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -260,7 +260,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OPUPSREC
 
 [Document14]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\N25Q128A13ESE40.SchDoc
+DocumentPath=N25Q128A13ESE40.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -277,7 +277,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VOSNMNLG
 
 [Document15]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\N25Q128A13ESE40.Harness
+DocumentPath=N25Q128A13ESE40.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -294,7 +294,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document16]
-DocumentPath=C:\Users\oystesee\Desktop\pcb-master\DMPro16\EFM32_IO.SchDoc
+DocumentPath=EFM32_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
