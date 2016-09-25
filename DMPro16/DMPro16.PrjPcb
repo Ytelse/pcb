@@ -430,23 +430,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=EFM32_power.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document25]
 DocumentPath=XC7A35TFTG256_IO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -463,7 +446,7 @@ DItemRevisionGUID=
 GenerateClassCluster=1
 DocumentUniqueId=NLCEPBVH
 
-[Document26]
+[Document25]
 DocumentPath=XC7A35TFTG256_bank0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -480,7 +463,7 @@ DItemRevisionGUID=
 GenerateClassCluster=1
 DocumentUniqueId=LTADVNOH
 
-[Document27]
+[Document26]
 DocumentPath=XC7A35TFTG256_bank0.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -497,7 +480,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document28]
+[Document27]
 DocumentPath=XC7A35TFTG256_bank14.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -514,7 +497,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document29]
+[Document28]
 DocumentPath=XC7A35TFTG256_bank34.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -531,7 +514,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document30]
+[Document29]
 DocumentPath=XC7A35TFTG256_bank35.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -548,7 +531,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document30]
 DocumentPath=LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -565,8 +548,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDPIDXBB
 
-[Document32]
+[Document31]
 DocumentPath=LED.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document32]
+DocumentPath=EFM32_power.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
