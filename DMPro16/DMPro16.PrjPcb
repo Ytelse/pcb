@@ -227,7 +227,7 @@ DocumentUniqueId=QBNRPNJX
 
 [Document12]
 DocumentPath=XC7A35TFTG256_bank35.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -652,7 +652,7 @@ DocumentUniqueId=
 
 [Document37]
 DocumentPath=USB_trans.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
