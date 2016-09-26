@@ -617,16 +617,16 @@ GenerateClassCluster=0
 DocumentUniqueId=MGFHISJY
 
 [Parameter1]
-Name=Groupname
-Value=Ytelse
-
-[Parameter2]
 Name=Version
 Value=0.1
 
-[Parameter3]
+[Parameter2]
 Name=Subject
-Value=DMPro16
+Value=TDT4295 Datamaskinprosjekt 2016
+
+[Parameter3]
+Name=Groupname
+Value=Ytelse
 
 [Parameter4]
 Name=BoardName
