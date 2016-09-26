@@ -617,7 +617,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MGFHISJY
 
 [Document35]
-DocumentPath=USB_connect.SchDoc
+DocumentPath=Connectors.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
