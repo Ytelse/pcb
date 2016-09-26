@@ -40,7 +40,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=main.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -74,7 +74,7 @@ DocumentUniqueId=CWVFARBI
 
 [Document3]
 DocumentPath=MCUtop.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -91,7 +91,7 @@ DocumentUniqueId=YYVOVTVW
 
 [Document4]
 DocumentPath=EFM32_power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -108,7 +108,7 @@ DocumentUniqueId=GLWRTBWF
 
 [Document5]
 DocumentPath=SDtop.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -125,7 +125,7 @@ DocumentUniqueId=CLBKHCNT
 
 [Document6]
 DocumentPath=Power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -142,7 +142,7 @@ DocumentUniqueId=JKEMDJHV
 
 [Document7]
 DocumentPath=USB3300.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -159,7 +159,7 @@ DocumentUniqueId=ACQEJQYI
 
 [Document8]
 DocumentPath=XC7A35TFTG256.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -176,7 +176,7 @@ DocumentUniqueId=IIBEMCDE
 
 [Document9]
 DocumentPath=XC7A35TFTG256_bank14.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -193,7 +193,7 @@ DocumentUniqueId=OKLNESGG
 
 [Document10]
 DocumentPath=XC7A35TFTG256_bank15.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -210,7 +210,7 @@ DocumentUniqueId=HTBTLWSP
 
 [Document11]
 DocumentPath=XC7A35TFTG256_bank34.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -244,7 +244,7 @@ DocumentUniqueId=NCMGDDBH
 
 [Document13]
 DocumentPath=XC7A35TFTG256_power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -261,7 +261,7 @@ DocumentUniqueId=RLPCAQLI
 
 [Document14]
 DocumentPath=XC7A35TFTG256_config.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -278,7 +278,7 @@ DocumentUniqueId=OPUPSREC
 
 [Document15]
 DocumentPath=N25Q128A13ESE40.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -312,7 +312,7 @@ DocumentUniqueId=
 
 [Document17]
 DocumentPath=EFM32_IO.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -431,7 +431,7 @@ DocumentUniqueId=
 
 [Document24]
 DocumentPath=XC7A35TFTG256_IO.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -448,7 +448,7 @@ DocumentUniqueId=NLCEPBVH
 
 [Document25]
 DocumentPath=XC7A35TFTG256_bank0.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -533,7 +533,7 @@ DocumentUniqueId=
 
 [Document30]
 DocumentPath=LED.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -601,7 +601,7 @@ DocumentUniqueId=
 
 [Document34]
 DocumentPath=schematic_A4_template.SchDot
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -618,7 +618,7 @@ DocumentUniqueId=MGFHISJY
 
 [Document35]
 DocumentPath=Connectors.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -652,7 +652,7 @@ DocumentUniqueId=
 
 [Document37]
 DocumentPath=USB_trans.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
