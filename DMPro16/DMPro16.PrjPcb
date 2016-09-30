@@ -48,11 +48,11 @@ AnnotateScope=All
 AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=BLPOXKHB
 
 [Document2]
@@ -82,11 +82,11 @@ AnnotateScope=All
 AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=YYVOVTVW
 
 [Document4]
@@ -99,9 +99,9 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GLWRTBWF
@@ -116,11 +116,11 @@ AnnotateScope=All
 AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=CLBKHCNT
 
 [Document6]
@@ -133,11 +133,11 @@ AnnotateScope=All
 AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=JKEMDJHV
 
 [Document7]
@@ -150,11 +150,11 @@ AnnotateScope=All
 AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=ACQEJQYI
 
 [Document8]
@@ -167,11 +167,11 @@ AnnotateScope=All
 AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=IIBEMCDE
 
 [Document9]
@@ -184,11 +184,11 @@ AnnotateScope=All
 AnnotateOrder=11
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=OKLNESGG
 
 [Document10]
@@ -201,11 +201,11 @@ AnnotateScope=All
 AnnotateOrder=12
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=HTBTLWSP
 
 [Document11]
@@ -218,11 +218,11 @@ AnnotateScope=All
 AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=QBNRPNJX
 
 [Document12]
@@ -235,11 +235,11 @@ AnnotateScope=All
 AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=NCMGDDBH
 
 [Document13]
@@ -252,11 +252,11 @@ AnnotateScope=All
 AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=RLPCAQLI
 
 [Document14]
@@ -269,11 +269,11 @@ AnnotateScope=All
 AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=OPUPSREC
 
 [Document15]
@@ -286,11 +286,11 @@ AnnotateScope=All
 AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=VOSNMNLG
 
 [Document16]
@@ -320,9 +320,9 @@ AnnotateScope=All
 AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMBTENUV
@@ -439,11 +439,11 @@ AnnotateScope=All
 AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=NLCEPBVH
 
 [Document25]
@@ -456,11 +456,11 @@ AnnotateScope=All
 AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
-GenerateClassCluster=1
+GenerateClassCluster=0
 DocumentUniqueId=LTADVNOH
 
 [Document26]
@@ -541,9 +541,9 @@ AnnotateScope=All
 AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YDPIDXBB
@@ -609,9 +609,9 @@ AnnotateScope=All
 AnnotateOrder=19
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CSUHBIBH
@@ -643,9 +643,9 @@ AnnotateScope=All
 AnnotateOrder=20
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TBMPSWLI
@@ -691,12 +691,12 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=21
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTNEDOCT
@@ -719,20 +719,20 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=BoardName
-Value=BottyMcBotFace
+Name=Version
+Value=0.1
 
 [Parameter2]
-Name=Groupname
-Value=Ytelse
-
-[Parameter3]
 Name=Subject
 Value=TDT4295 Datamaskinprosjekt 2016
 
+[Parameter3]
+Name=Groupname
+Value=Ytelse
+
 [Parameter4]
-Name=Version
-Value=0.1
+Name=BoardName
+Value=BottyMcBotFace
 
 [Configuration1]
 Name=Default Configuration
@@ -746,7 +746,7 @@ OutputJobsCount=0
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -867,7 +867,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -994,17 +994,11 @@ OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
 PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType20=Logic Analyser Print
-OutputName20=Logic Analyser Prints
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -1026,7 +1020,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -1098,7 +1092,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -1135,7 +1129,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1315,7 +1309,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Component states check
 OutputName1=Vault's components states check
@@ -1354,7 +1348,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Send To OneNote 2013
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
