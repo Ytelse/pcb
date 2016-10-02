@@ -718,6 +718,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DMPro16\Design Rule Check - pcb.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=BoardName
 Value=BottyMcBotFace
