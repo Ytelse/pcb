@@ -735,117 +735,130 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for DMPro16\Design Rule Check - pcb.html
+[Document42]
+DocumentPath=BOMDOC.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument3]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G1
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G2
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP3
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP4
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.TXT
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Version
-Value=0.5
+Name=BoardName
+Value=PACMAN
 
 [Parameter2]
-Name=Subject
-Value=TDT4295 Datamaskinprosjekt 2016
-
-[Parameter3]
 Name=Groupname
 Value=Ytelse
 
+[Parameter3]
+Name=Subject
+Value=TDT4295 Datamaskinprosjekt 2016
+
 [Parameter4]
-Name=BoardName
-Value=PACMAN
+Name=Version
+Value=0.5
 
 [Configuration1]
 Name=Default Configuration
