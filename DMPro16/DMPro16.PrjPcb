@@ -752,99 +752,120 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document43]
+DocumentPath=bomJob.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for DMPro16\Design Rule Check - pcb.html
+DocumentPath=Project Outputs for Free Documents\BOM documents\BOM\Bill of Materials-BOMDOC.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.DRR
+DocumentPath=Project Outputs for DMPro16\Design Rule Check - pcb.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.EXTREP
+DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G1
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G2
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBL
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBO
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBP
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBS
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GKO
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP1
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP2
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP3
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP4
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPB
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP4
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPT
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTL
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTO
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTP
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTS
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.LDP
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.REP
+DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.RUL
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.REP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.TXT
 DItemRevisionGUID=
 

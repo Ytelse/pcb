@@ -1,0 +1,65 @@
+Quantity per card;Total quantity;Comment;Description;Supplier 1;Supplier Part Number 1;Supplier webpage;;;;
+;;;;;;;;;;
+1;5;503500-0991;SD and Combo Memory Card Connector, 9 Position Surface Mount, -25 to 85 degC, RoHS, Tape and Reel;Farnell;2064067;http://no.farnell.com/molex/503500-0991/connector-sd-card-push-push-smt/dp/2064067?ost=2064067&categoryIdBox=&selectedCategoryId=&searchView=table&iscrfnonsku=false;;;;
+1;5;FXO-HC736R-48;;Farnell;1641012RL;http://no.farnell.com/fox-electronics/fxo-hc736r-48/osc-5x7mm-smd-cer-48-000mhz/dp/1641012;;;;
+23;115;CAP 470nF 10V 0603(1608);CAP 470nF 10V ±5% 0603 (1608 Metric) Thickness 1mm SMD;Farnell;1833805;http://no.farnell.com/avx/0603zd474kat2a/cap-mlcc-x5r-470nf-10v-0603/dp/1833805?ost=1833805&selectedCategoryId=&categoryNameResp=Alle%2Bkategorier&searchView=table&iscrfnonsku=false;;;;
+3;15;CAP 15pF 16V 0603(1608);CAP 15pF 16V ±0.25pF 0603 (1608 Metric) Thickness 1mm SMD;Farnell;2496834;http://no.farnell.com/walsin/0603b104k500ct/capacitor-mlcc-x7r-0-1uf-50v-0603/dp/2496834?ost=2496834&selectedCategoryId=&categoryNameResp=Alle%2Bkategorier&searchView=table&iscrfnonsku=false;;;;
+5;25;CAP 1uF 16V 0603(1608);CAP 1uF 16V ±5% 0603 (1608 Metric) Thickness 1mm SMD;Farnell;1833809;http://no.farnell.com/avx/0603zg105zat2a/cap-mlcc-y5v-1uf-10v-0603/dp/1833809?ost=1833809&selectedCategoryId=&categoryNameResp=Alle%2Bkategorier&searchView=table&iscrfnonsku=false;;;;
+1;5;12K 1% 0603(1608);12K 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P12.0KHCT-ND;http://www.digikey.com/product-search/en?keywords=P12.0KHCT-ND;;;;
+1;5;20K 1% 0603(1608);20K 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P20.0KHCT-ND;http://www.digikey.com/product-search/en?keywords=P20.0KHCT-ND;;;;
+1;5;2x7 2mm header;2 x 7 2mm pitch vertical header;Digi-Key;WM17469-ND;http://www.digikey.com/product-search/en?keywords=WM17469-ND;;;;
+1;5;300K 1% 0603(1608);300K 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P300KHCT-ND;http://www.digikey.com/product-search/en?keywords=P300KHCT-ND;;;;
+1;5;;WS-DITV 2.54 mm Compact THT Dip Switch with Raised Actuator;Digi-Key;732-3833-5-ND;http://www.digikey.com/product-search/en?keywords=732-3833-5-ND;;;;
+1;5;45K3 1% 0603(1608);45K3 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P45.3KHCT-ND;http://www.digikey.com/product-search/en?keywords=P45.3KHCT-ND;;;;
+1;5;6K65 1% 0603(1608);6K65 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P6.65KHCT-ND;http://www.digikey.com/product-search/en?keywords=P6.65KHCT-ND;;;;
+1;5;820R 5% 0603(1608);820R 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;P820GCT-ND;http://www.digikey.com/product-search/en?keywords=P820GCT-ND;;;;
+1;5;CAP 10uF 10V 0603(1608);CAP 10uF 10V ±10% 0603 (1608 Metric) Thickness 1mm SMD;Digi-Key;445-7486-1-ND;http://www.digikey.com/product-search/en?keywords=445-7486-1-ND;;;;
+1;5;CAP 1uF 16V 0603(1608);CAP 1uF 16V ±10% 0603 (1608 Metric) Thickness 1mm SMD;Digi-Key;311-1444-1-ND;http://www.digikey.com/product-search/en?keywords=311-1444-1-ND;;;;
+1;5;FT232RL-Reel;USB UART Asynchronous Serial Data Transfer Chip, SSOP-28, Tape and Reel;Digi-Key;768-1007-1-ND;http://www.digikey.com/product-search/en?keywords=768-1007-1-ND;;;;
+1;5;FXO-H736R-24;;Digi-Key;631-1185-1-ND;http://www.digikey.com/product-search/en?keywords=631-1185-1-ND;;;;
+1;5;FXO-HC736R-100;;Farnell;2064049;http://no.farnell.com/fox-electronics/fxo-hc736r-100/osc-100mhz-3-3v-smd/dp/2064049;;;;
+1;5;LT6700HVIS6-3#TRPBF;Micropower, Low Voltage, Comparator with 400 mV Reference, 2 Channels, 1.4 to 36 V, -40 to +85 degC, 6-pin TSOT-23 (S6), Tape and Reel;Digi-Key;LT6700HVCS6-3#TRMPBFCT-ND;http://www.digikey.com/product-search/en?keywords=LT6700HVCS6-3%23TRMPBFCT-ND;;;;
+1;5;N25Q128A13ESE40E;128 Mb (x1/x2/x4) Serial NOR Flash Memory with Multi I/O, 108 MHz, 2.7 to 3.6 V, 8-pin SO8 Wide (SE), Tray;Digi-Key;557-1562-ND;http://www.digikey.com/product-search/en?keywords=557-1562-ND;;;;
+1;5;SCREW-5.0/5.08 2WAYS;Socket, Screw Terminal Block, 2 Way, 5.0 mm Pitch, 90 Degree Angle, Through-Hole;Digi-Key;277-1667-ND;http://www.digikey.com/product-search/en?keywords=277-1667-ND;;;;
+1;5;TUSB2551APW;Advanced USB Transceiver, Full Speed, Single, +/-15 KV, -40 to 85 degC, 14-Pin TSSOP (PW);Digi-Key;296-23557-1-ND;http://www.digikey.com/product-search/en?keywords=296-23557-1-ND;;;;
+1;5;USB3300-EZK-TR;Hi-Speed USB Host, Device or OTG PHY with ULPI Low Pin Interface, 5 pF, -40 to 85 degC, 32-Pin QFN (QFN-3304), RoHS, Tape and Reel;Digi-Key;USB3300-EZK-CT-ND;http://www.digikey.com/product-search/en?keywords=USB3300-EZK-CT-ND;;;;
+12;60;CAP 4.7uF 10V 0603(1608);CAP 4.7uF 10V ±10% 0603 (1608 Metric) Thickness 1mm SMD;Digi-Key;478-7943-1-ND;http://www.digikey.com/product-search/en?keywords=478-7943-1-ND;;;;
+16;80;470R 5% 0603(1608);470R 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;541-470GCT-ND;http://www.digikey.com/product-search/en?keywords=541-470GCT-ND;;;;
+17;85;150060RS75000;SMD mono-color Chip LED, WL-SMCW, Red;Digi-Key;732-4978-1-ND;http://www.digikey.com/product-search/en?keywords=732-4978-1-ND;;;;
+2;10;15R 5% 0603(1608);15R 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;541-15GCT-ND;http://www.digikey.com/product-search/en?keywords=541-15GCT-ND;;;;
+2;10;1K2 1% 0603(1608);1K2 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;541-1.20KHCT-ND;http://www.digikey.com/product-search/en?keywords=541-1.20KHCT-ND;;;;
+2;10;1K8 5% 0603(1608);1K8 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;P1.8KGCT-ND;http://www.digikey.com/product-search/en?keywords=P1.8KGCT-ND;;;;
+2;10;200R 5% 0603(1608);200R 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;P200GCT-ND;http://www.digikey.com/product-search/en?keywords=P200GCT-ND;;;;
+22;110;CAP 100nF 16V 0603(1608);CAP 100nF 16V ±5% 0603 (1608 Metric) Thickness 1mm SMD;Digi-Key;311-1776-1-ND;http://www.digikey.com/product-search/en?keywords=311-1776-1-ND;;;;
+3;15;4K7 5% 0603(1608);4K7 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;P4.7KGCT-ND;http://www.digikey.com/product-search/en?keywords=P4.7KGCT-ND;;;;
+3;15;B3S-1000;Sealed Tactile Switch, SPST-NO, 3 to 24 V, -25 to 70 degC, 4-Pin SMD, RoHS, Bulk;Digi-Key;SW415-ND;http://www.digikey.com/product-search/en?keywords=SW415-ND;;;;
+3;15;CAP 10nF 16V 0603(1608);CAP 10nF 16V ±1% 0603 (1608 Metric) Thickness 1mm SMD;Digi-Key;478-6208-1-ND;http://www.digikey.com/product-detail/en/avx-corporation/0603YC103JAT2A/478-6208-1-ND/2391407;;;;
+3;15;CAP 2.2uF 16V 0603(1608);CAP 2.2uF 16V ±10% 0603 (1608 Metric) Thickness 0.55mm SMD;Digi-Key;445-7474-1-ND;http://www.digikey.com/product-search/en?keywords=445-7474-1-ND;;;;
+3;15;LP38501TS-ADJ/NOPB;3A FlexCap Low Dropout Linear Regulator for 2.7V to 5.5V Inputs, 5-pin TO-263, Pb-Free;Digi-Key;LP38501TS-ADJ-ND;http://www.digikey.com/product-search/en?keywords=LP38501TS-ADJ-ND;;;;
+4;20;33R 5% 0603(1608);33R 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;541-33GCT-ND;http://www.digikey.com/product-search/en?keywords=541-33GCT-ND;;;;
+4;20;4K7 1% 0603(1608);4K7 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P4.70KHCT-ND;http://www.digikey.com/product-search/en?keywords=P4.70KHCT-ND;;;;
+4;20;CAP 4.7uF 16V 0603(1608);CAP 4.7uF 16V ±10% 0603 (1608 Metric) Thickness 1mm SMD;Digi-Key;445-9050-1-ND;http://www.digikey.com/product-detail/en/tdk-corporation/C1608X5R1E475K080AC/445-9050-1-ND/3648704;;;;
+5;25;100K 1% 0603(1608);100K 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;P100KHCT-ND;http://www.digikey.com/product-search/en?keywords=P100KHCT-ND;;;;
+5;25;100R 5% 0603(1608);100R 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;541-100GCT-ND;http://www.digikey.com/product-search/en?keywords=541-100GCT-ND;;;;
+5;25;1K 5% 0603(1608);1K 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;P1.0KGCT-ND;http://www.digikey.com/product-search/en?keywords=P1.0KGCT-ND;;;;
+5;25;67503-1020;USB, MINI, SMD, RA KME04-USBMU03A01;Digi-Key;WM5461CT-ND;http://www.digikey.com/product-search/en?keywords=WM5461CT-ND;;;;
+5;25;IP4220CZ6;4 channel USB ESD protection device;Digi-Key;568-3529-2-ND;http://www.digikey.com/product-search/en?keywords=568-3529-2-ND;;;;
+6;30;CAP 100uF 10V 1206(3216);CAP 100uF 10V ±20% 1206 (3216 Metric) Thickness 1.9mm SMD;Digi-Key;445-6007-1-ND;http://www.digikey.com/product-search/en?keywords=445-6007-1-ND;;;;
+7;35;10K 1% 0603(1608);10K 0.1W 1% 0603 (1608 Metric)  SMD;Digi-Key;541-10.0KHCT-ND;http://www.digikey.com/product-search/en?keywords=541-10.0KHCT-ND;;;;
+7;35;10K 5% 0603(1608);10K 0.1W 5% 0603 (1608 Metric)  SMD;Digi-Key;311-10KGRCT-ND;http://www.digikey.com/product-search/en?keywords=311-10KGRCT-ND;;;;
+8;40;GRM32ER60J107ME20L;1210 100uF capacitor for artix-7 power decoupling;Digi-Key;490-3390-1-ND;http://www.digikey.com/product-search/en?keywords=490-3390-1-ND;;;;
+8;40;Jumper 0603(1608);Jumper 0603 (1608 Metric);Digi-Key;541-0.0GCT-ND;http://www.digikey.com/product-search/en?keywords=541-0.0GCT-ND;;;;
+1;;BH2542-20-SPGRH-3.0;Box Header, Pitch 2.54 mm, 2x10 Position, Height 9 mm, Tail Length 3 mm;;;;;;;
+1;;HTSW-107-42-F-D;;;;;;;;
+1;;MTLW-112-07-L-S-125;;;;;;;;
+1;;TSW-102-26-L-S;0.025 SQ Post Header; Through-hole; Vertical; -55 to 125 degC; 2.54 mm Pitch; 2-Pin; Male;" RoHS"""
+1;;TSW-103-07-T-S;;;;;;;;
+1;;TSW-105-05-T-D;;;;;;;;
+1;;TSW-105-05-T-S;0.025 SQ Post Header; Through-hole; Vertical; -55 to 105 degC; 2.54 mm Pitch; 5-Pin; Male;" RoHS"""
+1;;TSW-106-07-T-D;;;;;;;;
+1;;TSW-116-08-G-S;0.025 SQ Post Header; Through-hole; Vertical; -55 to 125 degC; 2.54 mm Pitch; 16-Pin; Male;" RoHS"""
+2;;MTLW-116-07-F-S-265;;;;;;;;
+2;;PH2541-2-SPGRH-6-3;Male Header, Pitch 2.54mm, 2x1 Position, Mated Height 6mm, Tail Length 3mm;;;;;;;
+2;;PH2542-4-SPGRH-6-3;Male Header, Pitch 2.54mm, 2x2 Position, Mated Height 6mm, Tail Length 3mm;;;;;;;
+2;;TSW-103-08-T-D;0.025 SQ Post Header; Through-hole; Vertical; -55 to 105 degC; 2.54 mm Pitch; 6-Pin; Male;" RoHS"""
+3;;TSW-104-08-G-S;0.025 SQ Post Header; Through-hole; Vertical; -55 to 125 degC; 2.54 mm Pitch; 4-Pin; Male;" RoHS"""
