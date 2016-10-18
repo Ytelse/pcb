@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for DMPro16
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -770,102 +770,94 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Free Documents\BOM documents\BOM\Bill of Materials-BOMDOC.csv
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for DMPro16\Design Rule Check - pcb.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument4]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP1
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP2
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP3
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GP4
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for DMPro16\Production files\Gerber Files\pcb.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for DMPro16\Production files\NC Drill Files\pcb.TXT
 DItemRevisionGUID=
 
@@ -895,7 +887,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for DMPro16
 
 [OutputGroup1]
 Name=Netlist Outputs
